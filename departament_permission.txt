@@ -1,0 +1,6 @@
+pracownik;baza.csv;1
+ksiegowy;baza.csv;2
+admin;baza.csv;3
+michal;Departament_A.csv;3
+Tomek;dane.csv;2
+test;baza.csv;2
